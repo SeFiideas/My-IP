@@ -1,6 +1,6 @@
 # My-IP
 
-<script>alert("welcom");</script>
+
 
 - Fun tool My ipv4
 - A view of the tool : 
